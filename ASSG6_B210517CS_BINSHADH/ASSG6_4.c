@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include<cstring.h>
+#incude<cmath.h>
 #include <stdlib.h>
 struct Nodebase{
     int data;
